@@ -1,0 +1,7 @@
+Services: used to encapsulate any non-UI logic
+
+Routers ARE NOT:
+used to connect to back end services
+
+Directives:
+To modify the DOM
